@@ -30,7 +30,5 @@ You can run the code sequentially by calling `make`.
 
 ## Data
 
-- `drug_approval_dates.feather`: Contains drug approval dates. Format: Feather.
-- `firm_xwalk.feather`: Crosswalk file for firm identifiers. Format: Feather.
-
-
+- `drug_approval_dates.csv`: Contains drug approval dates for clinicaltrials.gov sponsors.
+- `firm_xwalk.csv`: Crosswalk file that assigns consolidated firm IDs to clinicaltrials.gov sponsors.
